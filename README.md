@@ -1,6 +1,6 @@
 # Hi, I'm Sidh Mittal 👋
 
-Cybersecurity student @ VIT Vellore | InfoSec Specialization | CGPA: 8.99
+Cybersecurity student @ VIT Vellore | InfoSec Specialization
 
 ---
 
